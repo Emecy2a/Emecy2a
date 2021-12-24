@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Emecy2a
-- 👀 I’m interested in machine learning !
+- 👋 Hi, I’m Mathieu Cavillon (@Emecy2a)
+- 👀 I’m interested in data analysis and machine learning !
 - 🌱 I’m currently learning Python for Big Data and Machine learning !
 
 <!---
